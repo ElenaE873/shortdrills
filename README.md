@@ -13,5 +13,7 @@ The Question&Answer loop is a simple loop you can get started with to get a ques
 
 List Comprehension is where the magic really happens, that's for sure.  The example with explanation available is really simple but it goes through the very basic fundamentals of how it works and can be layered onto into more complex forms.
 
+Create your own languaage script is a short script makinng the base layout for possibly creating a new language and/or understannding how to use loops to look at and create langaugage components, to break them apart and link them back together.
+
 2 - "scriptdrills" Branch:
 This branch contains really basic and simple .py scripts.
