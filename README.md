@@ -11,5 +11,7 @@ One more user input prompt loop script just for fun with movies, this time :). S
 
 The Question&Answer loop is a simple loop you can get started with to get a questions and answer sequence to loop through knowing one outcome may only be inevitable if build this way, but it can be expanded and built upon.
 
+List Comprehension is where the magic really happens, that's for sure.  The example with explanation available is really simple but it goes through the very basic fundamentals of how it works and can be layered onto into more complex forms.
+
 2 - "scriptdrills" Branch:
 This branch contains really basic and simple .py scripts.
